@@ -1,2 +1,2 @@
 # Proyecto-C3
-Ejercicio practico , aprender a utilizar git
+Ejercicio practico , aprender a utilizar gitforwindows
